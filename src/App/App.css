@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App__links {
+  display: inline;
+}
+
+.App__navbar {
+  color: white;
+  border-bottom: 1px solid #cac6c6;
+}
+
+li {
+  list-style: none;
+  font-weight: 700;
+  margin-left: 20px;
+  font-size: 24px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(194, 194, 194);
+}

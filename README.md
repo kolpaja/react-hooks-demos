@@ -13,3 +13,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ###
 Simple demo for using useEffect on the functional components
+
+## Available Dependencies
+
+```
+npm i react-router-dom
+```
